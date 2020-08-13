@@ -1,0 +1,23 @@
+Welcome! to the road trip calculator
+
+The calculations are based on an average speed of 70 MPH
+
+***************************************************
+How many miles is your trip? 500
+What is the price of gas per gallon at the pump? 3.48
+How many miles can you go on a gallon of gas? 32
+The cost of gas is $54.38
+It will take 7 hours and 8 minutes
+The trip will take 7.14
+----------------------------------------
+Another trip?(0) to stop (1) to continue: 1
+
+***************************************************
+How many miles is your trip? 2109
+What is the price of gas per gallon at the pump? 2.78
+How many miles can you go on a gallon of gas? 21
+The cost of gas is $279.19
+It will take 30 hours and 7 minutes
+The trip will take 30.13
+----------------------------------------
+Another trip?(0) to stop (1) to continue: 0

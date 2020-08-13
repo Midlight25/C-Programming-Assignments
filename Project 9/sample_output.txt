@@ -1,0 +1,20 @@
+--------------INSIDE THE Greeting function---------------
+Please enter your name: Tami
+Hello Tami,
+Welcome to the fruit program.
+A fruit has a name, color, id, and a price
+Getting values for fruits 3, 4, and 5
+__________________________________________
+Enter the name of the fruit: grape
+Enter the color of the fruit: green
+Enter the id of the fruit: 345
+Enter the price of the fruit: .10
+__________________________________________
+Enter the name of the fruit: orange
+Enter the color of the fruit: orange
+Enter the id of the fruit: 322
+Enter the price of the fruit: .35
+__________________________________________
+Enter the name of the fruit: watermelon
+Enter the color of the fruit: green
+Enter the id of the fruit: 432
