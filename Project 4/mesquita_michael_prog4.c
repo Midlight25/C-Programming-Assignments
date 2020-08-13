@@ -5,14 +5,13 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <ctype.h>
-#include <conio.h>
 
 int main(void)
 {
   //Establishment of variables
-  int numOfCharacters; //Input from user
-  int num1, num2; //Output from inputLetter
-  char inputLetter; //Input from user
+  int numOfCharacters;           //Input from user
+  int num1, num2;                //Output from inputLetter
+  char inputLetter;              //Input from user
   char upperLetter, lowerLetter; //Output from num1 and num2
 
   //User welcome screen
@@ -21,7 +20,7 @@ int main(void)
   printf("How many characters would you like to test for this session? \n>");
   scanf("%d", &numOfCharacters);
 
-  for(int i=0; i<numOfCharacters; i++)
+  for (int i = 0; i < numOfCharacters; i++)
   {
     //ASK + GET inputLetter for processing
     printf("\nPlease type in a character.\n>");
