@@ -2,20 +2,6 @@
 ## Assignment Purpose
 To compile, build, and execute an interactive program with using characters, integers, simple math, and develop user defined functions.
 
-## Assignment Details
-- One source code file (unformatted text) will be submitted
-- The file name must match the assignment
-- The code should be tested and run on a Microsoft compiler before it is uploaded onto Canvas
-- The code must be submitted on time in order to receive credit (11:59 PM on the due date)
-- Late submissions will not be accepted or graded
-- All programming assignments are individual work, sharing code is considered cheating
-- Code needs to be tested with the Microsoft Compiler before being submitted
-- Code needs to be submitted with **lastname_firstname_prog6.c** syntax
-
-## Assignment Due Date
-The assignment will be due Oct 16, 2019 at 11:59pm. (It will be on a Wednesday.)
-*It is recommended that you submit your work by 9:00 p.m. as no assistance will be provided after 9:00 p.m. should you encounter any technical difficulties.*
-
 ## Libraries and Skills
 This assignment will require the standard input-output C library.
 This assignment will require these skills:
